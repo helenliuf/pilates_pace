@@ -1,0 +1,2 @@
+version,device name,recording epoch time,recording time,recording timezone,platform,appVersion,device id,sensors,sampleRateMs,standardisation
+3,iPhone 14 Pro,1733851528987,2024-12-10_17-25-28,America/New_York,ios,1.39,d86bf366-c90b-4e4b-a796-444add6cbad1,Accelerometer|Gyroscope|Pedometer|Annotation|GyroscopeUncalibrated|AccelerometerUncalibrated,10|10|10||10|10,false
